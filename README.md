@@ -2,6 +2,9 @@
 
 Hi 👋, I'm Dheeraj Goswami
 
+
+![gihub-pic 2](https://github.com/user-attachments/assets/3e4c03f6-fe82-4068-a2cb-ae1627cd6b15)
+
 A passionate FullStack Developer from India
 
 🔭 I’m currently working on Corrina ai
