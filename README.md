@@ -12,6 +12,8 @@ A passionate FullStack Developer from India
 
 📫 How to reach me goswamidheeraj760@gmail.com
 
+![gihub-pic 2](https://github.com/user-attachments/assets/3e4c03f6-fe82-4068-a2cb-ae1627cd6b15)
+
 ⚡ Fun fact I am funny
 
 
