@@ -8,7 +8,7 @@ A passionate FullStack Developer from India
 
  🌱 I’m currently learning Machine learing                                                              
 
- 💬 Ask me about  MEARN , NEXTJS
+ 💬 Ask me about  MEARN , React Native
  
  📫 How to reach me goswamidheeraj760@gmail.com
  
