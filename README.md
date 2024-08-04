@@ -3,16 +3,16 @@
 Hi 👋, I'm Dheeraj Goswami
 
 A passionate FullStack Developer from India     
-                                                           ![gihub-pic 2](https://github.com/user-attachments/assets/3e4c03f6-fe82-4068-a2cb-ae1627cd6b15)
-🔭 I’m currently working on Corrina ai
+![gihub-pic 2](https://github.com/user-attachments/assets/3e4c03f6-fe82-4068-a2cb-ae1627cd6b15)
+                                                                                                 🔭 I’m currently working on Corrina ai
 
-🌱 I’m currently learning DevOps
+                                                                                                 🌱 I’m currently learning Machine learing
 
-💬 Ask me about  MEARN , NEXTJS
+                                                                                                 💬 Ask me about  MEARN , NEXTJS
 
-📫 How to reach me goswamidheeraj760@gmail.com
+                                                                                                 📫 How to reach me goswamidheeraj760@gmail.com
 
 
-⚡ Fun fact I am funny
+                                                                                                   ⚡ Fun fact I am funny
 
 
