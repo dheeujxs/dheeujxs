@@ -4,7 +4,7 @@
                                                                          Hi 👋, I'm Dheeraj Goswami
 A passionate FullStack Developer from India
                                  
- 🔭 I’m currently working on Corrina ai
+ 🔭 I’m currently working on slack clone
 
  🌱 I’m currently learning Machine learing                                                              
 
